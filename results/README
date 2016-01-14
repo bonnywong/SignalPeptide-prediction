@@ -1,0 +1,17 @@
+Commands used to generate current results: 
+python classifier gallus svm 0 
+python classifier gallus svm 50
+python classifier gallus svm 100 
+python classifier gallus svm 150
+python classifier gallus bayes 0
+python classifier gallus bayes 50
+python classifier gallus bayes 100
+python classifier gallus bayes 150
+python classifier zebrafish svm 0 
+python classifier zebrafish svm 50
+python classifier zebrafish svm 100 
+python classifier zebrafish svm 150
+python classifier zebrafish bayes 0
+python classifier zebrafish bayes 50
+python classifier zebrafish bayes 100
+python classifier zebrafish bayes 150
